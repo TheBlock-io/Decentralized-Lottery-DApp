@@ -3,6 +3,9 @@
 
 A **trustless decentralized lottery/raffle** on Ethereum-compatible blockchains. Users buy tickets, and winners are picked automatically using **Chainlink VRF** for secure randomness and **Chainlink Keepers** for automated draws.
 
+## Author:
+***RADHWANE Benaissa*** — Blockchain and Smart Contract Developer.
+
 
 ## Features:
 
